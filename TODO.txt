@@ -1,0 +1,5 @@
+TODO
+
+encypt username and password before sending to server 
+
+encypt message send to server

@@ -1,0 +1,8 @@
+{
+    "bannedUsers": [
+        {
+            "name": "test",
+            "reasons": "Banned by Operator"
+        }
+    ]
+}
